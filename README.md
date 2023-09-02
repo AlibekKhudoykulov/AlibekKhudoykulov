@@ -1,6 +1,4 @@
 ### Hi there 👋
-🌱 I’m currently learning
-
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64ed7f84b128dce3cb8876ea?variant=dark)](https://roadmap.sh)
 
 <!--
